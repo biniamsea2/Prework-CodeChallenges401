@@ -1,5 +1,5 @@
 # Code-401-prework-code-challenges
-# Author: Biniam 
+Author: Biniam 
 
 
 # Problem 1: Array Max Result
