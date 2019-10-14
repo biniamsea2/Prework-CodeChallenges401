@@ -1,8 +1,8 @@
 # code-401-prework-code-challenges
-Author: Biniam 
+# Author: Biniam 
 
 
-Problem 1: Array Max Result
+# Problem 1: Array Max Result
 Problem Statement
 Given an array select a number that exists, and output the computated "score". The method you create should take in both an array of integers and the integer the user selected.
 
@@ -12,7 +12,7 @@ Create a Console application that requests 5 numbers between 1-10 from the user.
 
 
 
-Problem 2: Leap Year Calculator
+# Problem 2: Leap Year Calculator
 Problem Statement
 Given a year, report if it is a leap year.
 
